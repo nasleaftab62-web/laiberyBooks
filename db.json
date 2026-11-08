@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "u_super",
+      "name": "مدیر کل",
+      "email": "admin@nasl.ir",
+      "role": "admin",
+      "isSuperAdmin": true,
+      "password": ""
+    }
+  ],
+  "books": [],
+  "loans": [],
+  "categories": [
+    { "id": "c1", "name": "داستان", "icon": "book" },
+    { "id": "c2", "name": "علمی", "icon": "beaker" }
+  ],
+  "requests": [],
+  "questions": [],
+  "customPages": [],
+  "settings": {}
+}
