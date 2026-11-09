@@ -13,11 +13,6 @@
   "loans": [],
   "categories": [
     {
-      "id": "c1",
-      "name": "داستان",
-      "icon": "book"
-    },
-    {
       "id": "mw8wfad86hjmzu42nil",
       "name": "شهدایی",
       "icon": "folder"
