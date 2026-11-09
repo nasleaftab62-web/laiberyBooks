@@ -9,22 +9,7 @@
       "password": ""
     }
   ],
-  "books": [
-    {
-      "id": "mw8zmjks33jj4duzv5",
-      "title": "etr",
-      "category": "شهدایی",
-      "donor": "rg",
-      "description": "rggrg",
-      "image": "",
-      "copies": [
-        {
-          "code": "BK-001",
-          "status": "available"
-        }
-      ]
-    }
-  ],
+  "books": [],
   "loans": [],
   "categories": [
     {
