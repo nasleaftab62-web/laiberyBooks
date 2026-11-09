@@ -12,8 +12,21 @@
   "books": [],
   "loans": [],
   "categories": [
-    { "id": "c1", "name": "داستان", "icon": "book" },
-    { "id": "c2", "name": "علمی", "icon": "beaker" }
+    {
+      "id": "c1",
+      "name": "داستان",
+      "icon": "book"
+    },
+    {
+      "id": "c2",
+      "name": "علمی",
+      "icon": "beaker"
+    },
+    {
+      "id": "mw8wfad86hjmzu42nil",
+      "name": "شهدایی",
+      "icon": "folder"
+    }
   ],
   "requests": [],
   "questions": [],
