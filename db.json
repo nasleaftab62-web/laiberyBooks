@@ -383,6 +383,24 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwanrwmvvynn6tn9xo",
+      "title": "خلبان اف 14",
+      "category": "کتابک شهدایی",
+      "donor": "قاسمی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794313236818.jpg",
+      "copies": [
+        {
+          "code": "BK-043",
+          "status": "available"
+        },
+        {
+          "code": "BK-044",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
