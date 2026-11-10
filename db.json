@@ -13,11 +13,6 @@
   "loans": [],
   "categories": [
     {
-      "id": "c1",
-      "name": "داستان",
-      "icon": "book"
-    },
-    {
       "id": "c2",
       "name": "علمی",
       "icon": "beaker"
