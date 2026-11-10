@@ -361,6 +361,28 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwanojkybq45bhgsmsl",
+      "title": "سیدمقاومت",
+      "category": "کتابک شهدایی",
+      "donor": "نعمتی،علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794313079990.jpg",
+      "copies": [
+        {
+          "code": "BK-040",
+          "status": "available"
+        },
+        {
+          "code": "BK-041",
+          "status": "available"
+        },
+        {
+          "code": "BK-042",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
