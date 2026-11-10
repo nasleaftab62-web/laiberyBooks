@@ -329,6 +329,24 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwanhno4dkcdh0cd4r",
+      "title": "آقا مصطفی",
+      "category": "کتابک شهدایی",
+      "donor": "نعمتی ،علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312732102.jpg",
+      "copies": [
+        {
+          "code": "BK-037",
+          "status": "available"
+        },
+        {
+          "code": "BK-038",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
