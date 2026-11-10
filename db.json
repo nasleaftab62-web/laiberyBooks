@@ -139,6 +139,20 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwamxndnofuw7eg80j",
+      "title": "عروس آسمانی",
+      "category": "کتابک شهدایی",
+      "donor": "علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794311825128.jpg",
+      "copies": [
+        {
+          "code": "BK-012",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
