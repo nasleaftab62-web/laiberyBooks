@@ -93,6 +93,20 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwamri9zx0szrtb5g7k",
+      "title": "آقای وزیر",
+      "category": "کتابک شهدایی",
+      "donor": "قاسمی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794311538670.jpg",
+      "copies": [
+        {
+          "code": "BK-008",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
