@@ -29,7 +29,22 @@
       "password": "825a9788af8d55d1309b1432b9589a594d3f299977baea819a8e778d7eb42190"
     }
   ],
-  "books": [],
+  "books": [
+    {
+      "id": "mwal684wlw7n6vp0hgk",
+      "title": "غبب",
+      "category": "کتابک شهدایی",
+      "donor": "بعغ",
+      "description": "تباب",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794308866532.jpg",
+      "copies": [
+        {
+          "code": "BK-001",
+          "status": "available"
+        }
+      ]
+    }
+  ],
   "loans": [
     {
       "id": "mwagvtfseowsu7o8col",
