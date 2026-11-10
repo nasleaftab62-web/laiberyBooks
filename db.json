@@ -175,6 +175,20 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwan2krro3ek4kpezha",
+      "title": "اقا محسن",
+      "category": "کتابک شهدایی",
+      "donor": "نعمتی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312054982.jpg",
+      "copies": [
+        {
+          "code": "BK-016",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
