@@ -33,8 +33,7 @@
       "copies": [
         {
           "code": "BK-001",
-          "status": "loaned",
-          "loanId": "mwagvtfseowsu7o8col"
+          "status": "available"
         }
       ]
     }
@@ -46,8 +45,9 @@
       "bookTitle": "تاخمهلا",
       "copyCode": "BK-001",
       "member": "امیرعلی",
-      "status": "active",
-      "date": "2026-11-10T09:07:44.968Z"
+      "status": "returned",
+      "date": "2026-11-10T09:07:44.968Z",
+      "returnedAt": "2026-11-10T09:07:56.280Z"
     }
   ],
   "categories": [
