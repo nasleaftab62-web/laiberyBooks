@@ -347,6 +347,20 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwanlfkflatuqtbvab",
+      "title": "زینب خانم",
+      "category": "کتابک شهدایی",
+      "donor": "علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312934861.jpg",
+      "copies": [
+        {
+          "code": "BK-039",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
