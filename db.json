@@ -46,8 +46,7 @@
       "copies": [
         {
           "code": "BK-001",
-          "status": "loaned",
-          "loanId": "mwam0z0vmgtgzs93wib"
+          "status": "available"
         },
         {
           "code": "BK-002",
@@ -73,8 +72,9 @@
       "bookTitle": "آقای خوش تیپ",
       "copyCode": "BK-001",
       "member": "امیرعلی خاراسانی",
-      "status": "active",
-      "date": "2026-11-10T11:31:43.567Z"
+      "status": "returned",
+      "date": "2026-11-10T11:31:43.567Z",
+      "returnedAt": "2026-11-10T11:32:55.845Z"
     }
   ],
   "categories": [
