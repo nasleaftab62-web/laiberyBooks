@@ -20,6 +20,13 @@
       "name": "امیرعلی",
       "password": "01b23136ea7f9f8b9e72c9e125fd710301baec28662b0de2168967838c79e81a",
       "role": "reader"
+    },
+    {
+      "id": "u1794302310929",
+      "name": "محمد جواد رشیدی",
+      "role": "admin",
+      "isSuperAdmin": false,
+      "password": "825a9788af8d55d1309b1432b9589a594d3f299977baea819a8e778d7eb42190"
     }
   ],
   "books": [],
