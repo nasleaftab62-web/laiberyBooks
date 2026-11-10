@@ -259,6 +259,32 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwana7ctnxd3b6oayuk",
+      "title": "حاج قاسم",
+      "category": "کتابک شهدایی",
+      "donor": "عظیمی،قاسمس،رشیدی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312411014.jpg",
+      "copies": [
+        {
+          "code": "BK-027",
+          "status": "available"
+        },
+        {
+          "code": "BK-028",
+          "status": "available"
+        },
+        {
+          "code": "BK-029",
+          "status": "available"
+        },
+        {
+          "code": "BK-030",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
