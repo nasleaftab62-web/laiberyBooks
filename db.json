@@ -29,7 +29,26 @@
       "password": "825a9788af8d55d1309b1432b9589a594d3f299977baea819a8e778d7eb42190"
     }
   ],
-  "books": [],
+  "books": [
+    {
+      "id": "mwalwue2apqh0z9vl5q",
+      "title": "آقای خوش تیپ",
+      "category": "کتابک شهدایی",
+      "donor": "علیجانی،نعمتی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794310107571.jpg",
+      "copies": [
+        {
+          "code": "BK-001",
+          "status": "available"
+        },
+        {
+          "code": "BK-002",
+          "status": "available"
+        }
+      ]
+    }
+  ],
   "loans": [
     {
       "id": "mwagvtfseowsu7o8col",
