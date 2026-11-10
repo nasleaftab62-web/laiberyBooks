@@ -207,6 +207,32 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwan6vkuc464l51oipw",
+      "title": "داداش ابراهیم",
+      "category": "کتابک شهدایی",
+      "donor": "آهنشاکی،سیدی،علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312255745.jpg",
+      "copies": [
+        {
+          "code": "BK-019",
+          "status": "available"
+        },
+        {
+          "code": "BK-020",
+          "status": "available"
+        },
+        {
+          "code": "BK-021",
+          "status": "available"
+        },
+        {
+          "code": "BK-022",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
