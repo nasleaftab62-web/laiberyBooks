@@ -107,6 +107,20 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwamtoxqhbpojlk135o",
+      "title": "خانم امدادگر",
+      "category": "کتابک شهدایی",
+      "donor": "علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794311640699.jpg",
+      "copies": [
+        {
+          "code": "BK-009",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
