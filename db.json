@@ -29,22 +29,7 @@
       "password": "825a9788af8d55d1309b1432b9589a594d3f299977baea819a8e778d7eb42190"
     }
   ],
-  "books": [
-    {
-      "id": "mwal46f089fjvfbjdvd",
-      "title": "fbfg",
-      "category": "کتابک شهدایی",
-      "donor": "fbg",
-      "description": "fbvgb",
-      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794308771257.jpg",
-      "copies": [
-        {
-          "code": "BK-001",
-          "status": "available"
-        }
-      ]
-    }
-  ],
+  "books": [],
   "loans": [
     {
       "id": "mwagvtfseowsu7o8col",
