@@ -22,7 +22,22 @@
       "role": "reader"
     }
   ],
-  "books": [],
+  "books": [
+    {
+      "id": "mwagvb87anpr7fp8s3",
+      "title": "تاخمهلا",
+      "category": "کتابک شهدایی",
+      "donor": "متمتم",
+      "description": "همتنمعهل",
+      "image": "",
+      "copies": [
+        {
+          "code": "BK-001",
+          "status": "available"
+        }
+      ]
+    }
+  ],
   "loans": [],
   "categories": [
     {
