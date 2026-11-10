@@ -14,6 +14,12 @@
       "role": "admin",
       "isSuperAdmin": false,
       "password": "696aea6a8585996fcfdb9c173d876cca22a79bccdaa8c2303e197320d2debb65"
+    },
+    {
+      "id": "u1794301420406",
+      "name": "امیرعلی",
+      "password": "01b23136ea7f9f8b9e72c9e125fd710301baec28662b0de2168967838c79e81a",
+      "role": "reader"
     }
   ],
   "books": [],
