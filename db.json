@@ -27,6 +27,12 @@
       "role": "admin",
       "isSuperAdmin": false,
       "password": "825a9788af8d55d1309b1432b9589a594d3f299977baea819a8e778d7eb42190"
+    },
+    {
+      "id": "u1794310293672",
+      "name": "امیرعلی خاراسانی",
+      "password": "cddd0127d905c79beca46bd4222ab8b5ec8c48a8c6ab4ee537a09c75279b83e4",
+      "role": "reader"
     }
   ],
   "books": [
