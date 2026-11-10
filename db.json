@@ -303,6 +303,32 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwanf3oot5byvttfcl",
+      "title": "آقای رئیس جهور",
+      "category": "کتابک شهدایی",
+      "donor": "نصیری،وحیدیان،قاسمی،عظیمی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312639431.jpg",
+      "copies": [
+        {
+          "code": "BK-033",
+          "status": "available"
+        },
+        {
+          "code": "BK-034",
+          "status": "available"
+        },
+        {
+          "code": "BK-035",
+          "status": "available"
+        },
+        {
+          "code": "BK-036",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
