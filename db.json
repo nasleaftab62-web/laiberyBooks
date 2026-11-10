@@ -189,6 +189,24 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwan4941nifrxdyy5w",
+      "title": "آقا مهدی",
+      "category": "کتابک شهدایی",
+      "donor": "نعمتی،علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312133503.jpg",
+      "copies": [
+        {
+          "code": "BK-017",
+          "status": "available"
+        },
+        {
+          "code": "BK-018",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
