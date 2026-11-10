@@ -233,6 +233,32 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwan8pqzvl3ugiibu8",
+      "title": "اقا معلم",
+      "category": "کتابک شهدایی",
+      "donor": "نعمتی،ابوی،علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312341360.jpg",
+      "copies": [
+        {
+          "code": "BK-023",
+          "status": "available"
+        },
+        {
+          "code": "BK-024",
+          "status": "available"
+        },
+        {
+          "code": "BK-025",
+          "status": "available"
+        },
+        {
+          "code": "BK-026",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
