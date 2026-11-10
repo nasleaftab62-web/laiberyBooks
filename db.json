@@ -285,6 +285,24 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwandmdxdguuptxv6oe",
+      "title": "آقا داماد",
+      "category": "کتابک شهدایی",
+      "donor": "علیجانی،نعمتی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794312569645.jpg",
+      "copies": [
+        {
+          "code": "BK-031",
+          "status": "available"
+        },
+        {
+          "code": "BK-032",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
