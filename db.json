@@ -121,6 +121,24 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwamvkcnvh7vmwyxbie",
+      "title": "آرمان عزیز",
+      "category": "کتابک شهدایی",
+      "donor": "نعمتی،علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794311727700.jpg",
+      "copies": [
+        {
+          "code": "BK-010",
+          "status": "available"
+        },
+        {
+          "code": "BK-011",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
