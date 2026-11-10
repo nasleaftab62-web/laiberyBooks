@@ -53,6 +53,24 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwam9a6r36oudh1v9ek",
+      "title": "حاج همت",
+      "category": "کتابک شهدایی",
+      "donor": "علیجانی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794310688449.jpg",
+      "copies": [
+        {
+          "code": "BK-003",
+          "status": "available"
+        },
+        {
+          "code": "BK-004",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
