@@ -7,6 +7,13 @@
       "role": "admin",
       "isSuperAdmin": true,
       "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
+    },
+    {
+      "id": "u1794300922615",
+      "name": "امیرعلی خراسانی",
+      "role": "admin",
+      "isSuperAdmin": false,
+      "password": "696aea6a8585996fcfdb9c173d876cca22a79bccdaa8c2303e197320d2debb65"
     }
   ],
   "books": [],
