@@ -153,6 +153,28 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwan08r1y2hms04m2oh",
+      "title": "استاد عبدالحسین",
+      "category": "کتابک شهدایی",
+      "donor": "نعمتی،علیجانی،قاسمی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794311946200.jpg",
+      "copies": [
+        {
+          "code": "BK-013",
+          "status": "available"
+        },
+        {
+          "code": "BK-014",
+          "status": "available"
+        },
+        {
+          "code": "BK-015",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
