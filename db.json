@@ -42,7 +42,8 @@
       "isSuperAdmin": false,
       "password": "585579aed1c5241bcec5569704f0863f09f42a230a3329daf11e8314025a0e28",
       "joinedAt": "2026-11-11T08:25:00.592Z",
-      "avatar": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/avatars/avatar_u1794385500592.jpg?v=1794392679985"
+      "avatar": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/avatars/avatar_u1794385500592.jpg?v=1794392679985",
+      "blocked": true
     },
     {
       "id": "u1794394374306",
