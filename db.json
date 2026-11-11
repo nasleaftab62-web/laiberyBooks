@@ -52,6 +52,15 @@
       "role": "reader",
       "joinedAt": "2026-11-11T10:52:54.310Z",
       "avatar": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/avatars/avatar_u1794394374306.jpg?v=1794394399270"
+    },
+    {
+      "id": "u1794395722015",
+      "name": "علیرضا قدیمی",
+      "class": "هفتصد و دو",
+      "password": "2c4695954a7adb67cd0768f3ecb100c5abe6d49a3af7a971b1a34710c173d0be",
+      "role": "reader",
+      "joinedAt": "2026-11-11T11:15:22.019Z",
+      "avatar": ""
     }
   ],
   "books": [
