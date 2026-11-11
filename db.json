@@ -32,8 +32,7 @@
       "id": "u1794310293672",
       "name": "امیرعلی خاراسانی",
       "password": "cddd0127d905c79beca46bd4222ab8b5ec8c48a8c6ab4ee537a09c75279b83e4",
-      "role": "reader",
-      "blocked": true
+      "role": "reader"
     },
     {
       "id": "u1794385500592",
@@ -44,7 +43,7 @@
       "password": "585579aed1c5241bcec5569704f0863f09f42a230a3329daf11e8314025a0e28",
       "joinedAt": "2026-11-11T08:25:00.592Z",
       "avatar": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/avatars/avatar_u1794385500592.jpg?v=1794392679985",
-      "blocked": true
+      "blocked": false
     },
     {
       "id": "u1794394374306",
@@ -53,15 +52,6 @@
       "role": "reader",
       "joinedAt": "2026-11-11T10:52:54.310Z",
       "avatar": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/avatars/avatar_u1794394374306.jpg?v=1794394399270"
-    },
-    {
-      "id": "u1794395722015",
-      "name": "علیرضا قدیمی",
-      "class": "هفتصد و دو",
-      "password": "2c4695954a7adb67cd0768f3ecb100c5abe6d49a3af7a971b1a34710c173d0be",
-      "role": "reader",
-      "joinedAt": "2026-11-11T11:15:22.019Z",
-      "avatar": ""
     }
   ],
   "books": [
@@ -554,16 +544,6 @@
       "status": "returned",
       "date": "2026-11-11T10:25:20.439Z",
       "returnedAt": "2026-11-11T10:26:41.870Z"
-    },
-    {
-      "id": "mwc0faubmkap7b97p1",
-      "bookId": "mwalwue2apqh0z9vl5q",
-      "bookTitle": "آقای خوش تیپ",
-      "copyCode": "BK-001",
-      "member": "حسین رحیمی",
-      "status": "returned",
-      "date": "2026-11-11T11:02:32.867Z",
-      "returnedAt": "2026-11-11T11:03:49.604Z"
     }
   ],
   "categories": [
