@@ -74,8 +74,7 @@
       "copies": [
         {
           "code": "BK-003",
-          "status": "loaned",
-          "loanId": "mwbz3gafc1eqquubxkc"
+          "status": "available"
         },
         {
           "code": "BK-004",
@@ -533,8 +532,9 @@
       "bookTitle": "حاج همت",
       "copyCode": "BK-003",
       "member": "حسین رحیمی",
-      "status": "active",
-      "date": "2026-11-11T10:25:20.439Z"
+      "status": "returned",
+      "date": "2026-11-11T10:25:20.439Z",
+      "returnedAt": "2026-11-11T10:26:41.870Z"
     }
   ],
   "categories": [
