@@ -33,6 +33,15 @@
       "name": "امیرعلی خاراسانی",
       "password": "cddd0127d905c79beca46bd4222ab8b5ec8c48a8c6ab4ee537a09c75279b83e4",
       "role": "reader"
+    },
+    {
+      "id": "u1794385500592",
+      "name": "حسین رحیمی",
+      "email": "",
+      "role": "reader",
+      "isSuperAdmin": false,
+      "password": "585579aed1c5241bcec5569704f0863f09f42a230a3329daf11e8314025a0e28",
+      "joinedAt": "2026-11-11T08:25:00.592Z"
     }
   ],
   "books": [
