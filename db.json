@@ -454,6 +454,44 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwbvnu6363qvkc6dfly",
+      "title": "سلام بر ابراهیم(2)",
+      "category": "کتابک شهدایی",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794386949540.jpg",
+      "copies": [
+        {
+          "code": "BK-051",
+          "status": "available"
+        },
+        {
+          "code": "BK-052",
+          "status": "available"
+        },
+        {
+          "code": "BK-053",
+          "status": "available"
+        },
+        {
+          "code": "BK-054",
+          "status": "available"
+        },
+        {
+          "code": "BK-055",
+          "status": "available"
+        },
+        {
+          "code": "BK-056",
+          "status": "available"
+        },
+        {
+          "code": "BK-057",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
