@@ -32,7 +32,8 @@
       "id": "u1794310293672",
       "name": "امیرعلی خاراسانی",
       "password": "cddd0127d905c79beca46bd4222ab8b5ec8c48a8c6ab4ee537a09c75279b83e4",
-      "role": "reader"
+      "role": "reader",
+      "blocked": true
     },
     {
       "id": "u1794385500592",
