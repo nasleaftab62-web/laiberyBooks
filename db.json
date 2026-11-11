@@ -431,6 +431,20 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwbrkkcst04jfok1wbk",
+      "title": "سلام بر ابراهیم(جامع)",
+      "category": "سلام بر ابراهیم",
+      "donor": "محمد فرابی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794380078972.jpg",
+      "copies": [
+        {
+          "code": "BK-050",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
