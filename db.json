@@ -401,6 +401,36 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwbre5xnvcooy6dbl3",
+      "title": "سلام بر ابراهیم",
+      "category": "سلام بر ابراهیم",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794379770714.jpg",
+      "copies": [
+        {
+          "code": "BK-045",
+          "status": "available"
+        },
+        {
+          "code": "BK-046",
+          "status": "available"
+        },
+        {
+          "code": "BK-047",
+          "status": "available"
+        },
+        {
+          "code": "BK-048",
+          "status": "available"
+        },
+        {
+          "code": "BK-049",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
