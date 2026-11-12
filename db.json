@@ -715,6 +715,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdcddkbgy0pj6qvmd4",
+      "title": "ستاره ها چیدنی نیستند",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794475479995.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-092",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
