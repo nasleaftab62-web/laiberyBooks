@@ -1025,6 +1025,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdfjt4i4whyo1rkdy9",
+      "title": "برخیزید",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794480820443.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-120",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
