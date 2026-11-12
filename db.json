@@ -647,6 +647,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdajh0pcekys6slggh",
+      "title": "صدای بال جبرائیل",
+      "category": "قصه و رمان",
+      "donor": "میرزایی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794472405533.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-086",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
