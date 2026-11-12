@@ -965,6 +965,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdez20f7jdkb3r3ks4",
+      "title": "پاییز آمد",
+      "category": "کتابک شهدایی",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794479852244.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-116",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
