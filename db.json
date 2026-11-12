@@ -617,6 +617,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdabuaa3t4aqmswozr",
+      "title": "قصه های خوب برای بچه های خوب 7",
+      "category": "قصه و رمان",
+      "donor": "میرزایی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794472050557.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-084",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
