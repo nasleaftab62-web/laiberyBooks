@@ -745,6 +745,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdcycb9pf1ekxcfym",
+      "title": "شناسنامه شهید ابراهیم هادی",
+      "category": "شناسنامه های شهدا",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794476459161.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-094",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
