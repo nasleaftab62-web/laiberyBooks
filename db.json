@@ -632,6 +632,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdagahxwegwh8364d",
+      "title": "20000 فرسنگ زیر دریا",
+      "category": "قصه و رمان",
+      "donor": "نعمتی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794472256964.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-085",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
