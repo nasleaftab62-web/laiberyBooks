@@ -995,6 +995,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdfaj4s6q1t2ndt2z",
+      "title": "متولد بهمن",
+      "category": "قصه و رمان",
+      "donor": "امیر محمد توکلی مقدم",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794480387083.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-118",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
