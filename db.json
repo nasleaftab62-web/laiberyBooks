@@ -805,6 +805,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwddmgv6sq7lcwdcx7",
+      "title": "شناسنامه علی ولی الله",
+      "category": "شناسنامه اهل بیت",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794477585106.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-098",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
