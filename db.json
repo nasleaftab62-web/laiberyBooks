@@ -1040,6 +1040,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdfobiv00z3kzqu26v1",
+      "title": "دالک",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794481030837.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-121",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
