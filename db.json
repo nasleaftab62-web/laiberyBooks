@@ -685,6 +685,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdc1wo40nc93ked5r5",
+      "title": "پیامبر و قصه هایش 2",
+      "category": "قصه و رمان",
+      "donor": "نیابتی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794474946190.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-090",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
