@@ -760,6 +760,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdd2enzpgrtf9mfa4g",
+      "title": "شناسنامه شهید عماد مغنیه",
+      "category": "شناسنامه های شهدا",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794476649098.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-095",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
