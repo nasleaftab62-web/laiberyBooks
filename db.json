@@ -662,6 +662,25 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdam0u5jlmlwlua3e",
+      "title": "پیامبر و قصه هایش1",
+      "category": "قصه و رمان",
+      "donor": "نعمتی،میرزایی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794472525320.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-087",
+          "status": "available"
+        },
+        {
+          "code": "BK-088",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
