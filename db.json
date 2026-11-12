@@ -820,6 +820,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwddnweb3cky1etpnt",
+      "title": "شناسنامه حضرت فاطمه الزهرا",
+      "category": "شناسنامه اهل بیت",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794477652059.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-099",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
