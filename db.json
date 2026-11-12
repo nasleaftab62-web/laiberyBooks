@@ -730,6 +730,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdcvg1ck9ewe6sq5xr",
+      "title": "شناسنامه شهید حججی",
+      "category": "شناسنامه های شهدا",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794476323692.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-093",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
