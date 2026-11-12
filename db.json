@@ -835,6 +835,61 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwddvrdhx2wykvstj4a",
+      "title": "از ایرانمان دفاع کنیم",
+      "category": "کتابک شهدایی",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794478018940.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-100",
+          "status": "available"
+        },
+        {
+          "code": "BK-101",
+          "status": "available"
+        },
+        {
+          "code": "BK-102",
+          "status": "available"
+        },
+        {
+          "code": "BK-103",
+          "status": "available"
+        },
+        {
+          "code": "BK-104",
+          "status": "available"
+        },
+        {
+          "code": "BK-105",
+          "status": "available"
+        },
+        {
+          "code": "BK-106",
+          "status": "available"
+        },
+        {
+          "code": "BK-107",
+          "status": "available"
+        },
+        {
+          "code": "BK-108",
+          "status": "available"
+        },
+        {
+          "code": "BK-109",
+          "status": "available"
+        },
+        {
+          "code": "BK-110",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
