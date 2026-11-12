@@ -775,6 +775,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdd7pmn7xsylrua999",
+      "title": "شناسنامه شهید قاسم سلیمانی",
+      "category": "شناسنامه های شهدا",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794476896041.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-096",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
