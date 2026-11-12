@@ -1010,6 +1010,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdfh2jhvpivujh51d",
+      "title": "قصه ما مثل شد",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794480692748.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-119",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
