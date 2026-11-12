@@ -890,6 +890,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdebpxps9evjhpwagb",
+      "title": "محمدجواد و راز  مجسمه ها",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794478763380.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-111",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
