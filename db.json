@@ -905,6 +905,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdegdn4sav5sctl3fs",
+      "title": "تخته گاز تا جایزه",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794478980722.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-112",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
