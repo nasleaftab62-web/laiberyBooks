@@ -935,6 +935,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdepnf1habo53cmhco",
+      "title": "قصه های خوب برای دختر و پسر های خوب",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794479413330.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-114",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
