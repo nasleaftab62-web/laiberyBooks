@@ -920,6 +920,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdejq29so268f4amal",
+      "title": "سکه های ویرانگر",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794479135346.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-113",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
