@@ -700,6 +700,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdc7fnsldky01hp2g",
+      "title": "شکار هیولا",
+      "category": "قصه و رمان",
+      "donor": "محمد قاسمی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794475204201.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-091",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
