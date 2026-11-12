@@ -980,6 +980,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwdf4oktj8u4o5qa25j",
+      "title": "حکایت زمستان",
+      "category": "قصه و رمان",
+      "donor": "محمدحسین معصوم بیگی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794480114579.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-117",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
