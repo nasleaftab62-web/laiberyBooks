@@ -65,12 +65,11 @@
       "copies": [
         {
           "code": "BK-001",
-          "status": "available",
-          "loanId": "mwg5guboza0bkdeqrh"
+          "status": "available"
         },
         {
           "code": "BK-002",
-          "status": "loaned",
+          "status": "available",
           "loanId": "mwg5guy26r97rljqhtf"
         }
       ]
@@ -1211,8 +1210,9 @@
       "bookTitle": "آقای خوش تیپ",
       "copyCode": "BK-002",
       "member": "حسین رحیمی",
-      "status": "active",
-      "date": "2026-11-14T08:34:48.362Z"
+      "status": "returned",
+      "date": "2026-11-14T08:34:48.362Z",
+      "returnedAt": "2026-11-14T08:35:18.565Z"
     }
   ],
   "categories": [
