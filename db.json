@@ -1120,6 +1120,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwg1v8wzdm5q55v9kd",
+      "title": "کمال کورسل",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794639237228.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-130",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
