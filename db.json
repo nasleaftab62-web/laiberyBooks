@@ -65,11 +65,13 @@
       "copies": [
         {
           "code": "BK-001",
-          "status": "available"
+          "status": "loaned",
+          "loanId": "mwg5guboza0bkdeqrh"
         },
         {
           "code": "BK-002",
-          "status": "available"
+          "status": "loaned",
+          "loanId": "mwg5guy26r97rljqhtf"
         }
       ]
     },
@@ -1150,21 +1152,6 @@
           "status": "available"
         }
       ]
-    },
-    {
-      "id": "mwg573um5375vx13mas",
-      "title": "او گفت",
-      "category": "قصه و رمان",
-      "donor": "توکلی",
-      "description": "",
-      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794644830758.jpg",
-      "pdfUrl": "",
-      "copies": [
-        {
-          "code": "BK-132",
-          "status": "available"
-        }
-      ]
     }
   ],
   "loans": [
@@ -1207,6 +1194,24 @@
       "status": "returned",
       "date": "2026-11-11T10:25:20.439Z",
       "returnedAt": "2026-11-11T10:26:41.870Z"
+    },
+    {
+      "id": "mwg5guboza0bkdeqrh",
+      "bookId": "mwalwue2apqh0z9vl5q",
+      "bookTitle": "آقای خوش تیپ",
+      "copyCode": "BK-001",
+      "member": "حسین رحیمی",
+      "status": "active",
+      "date": "2026-11-14T08:34:47.556Z"
+    },
+    {
+      "id": "mwg5guy26r97rljqhtf",
+      "bookId": "mwalwue2apqh0z9vl5q",
+      "bookTitle": "آقای خوش تیپ",
+      "copyCode": "BK-002",
+      "member": "حسین رحیمی",
+      "status": "active",
+      "date": "2026-11-14T08:34:48.362Z"
     }
   ],
   "categories": [
