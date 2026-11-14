@@ -1150,6 +1150,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwg573um5375vx13mas",
+      "title": "او گفت",
+      "category": "قصه و رمان",
+      "donor": "توکلی",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794644830758.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-132",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
