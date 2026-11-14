@@ -25,7 +25,7 @@
       "id": "u1794302310929",
       "name": "محمد جواد رشیدی",
       "role": "admin",
-      "isSuperAdmin": false,
+      "isSuperAdmin": false,تهته
       "password": "825a9788af8d55d1309b1432b9589a594d3f299977baea819a8e778d7eb42190"
     },
     {
@@ -1293,15 +1293,6 @@
   ],
   "requests": [],
   "questions": [
-    {
-      "id": "mwagr6e3b15y5fxb1bj",
-      "question": "تهتهعخهعخعهخع",
-      "asker": "امیرعلی",
-      "createdAt": "2026-11-10T09:04:08.475Z",
-      "answer": "اتغلهغلنالنل",
-      "answeredBy": "امیرعلی خراسانی",
-      "answeredAt": "2026-11-10T09:05:19.663Z"
-    },
     {
       "id": "mwbzg0e0gjj09dg0pf",
       "question": "مسئولین کتابخانه چه کسانی هستند",
