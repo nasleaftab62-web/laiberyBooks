@@ -1135,6 +1135,21 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwg21c1cu8v39lqiop",
+      "title": "اخلاق کارتشکیلاتی",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794639521994.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-131",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
