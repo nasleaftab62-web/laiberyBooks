@@ -1059,6 +1059,37 @@
           "status": "available"
         }
       ]
+    },
+    {
+      "id": "mwg0i74atf9z8ma7im",
+      "title": "حاج قاسمی که من می شناسم",
+      "category": "حاج قاسمی که من می شناسم",
+      "donor": "",
+      "description": "پرونده ای را گذاشتند جلوی سردار سلیمانی که خلافش محرز بود \nآن را با دقت مطالعه کرد و نوشت «محکم برخورد شود»\nدر این مورد اغماض نمی کرد",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794636949037.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-123",
+          "status": "available"
+        },
+        {
+          "code": "BK-124",
+          "status": "available"
+        },
+        {
+          "code": "BK-125",
+          "status": "available"
+        },
+        {
+          "code": "BK-126",
+          "status": "available"
+        },
+        {
+          "code": "BK-127",
+          "status": "available"
+        }
+      ]
     }
   ],
   "loans": [
