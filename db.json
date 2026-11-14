@@ -52,15 +52,6 @@
       "role": "reader",
       "joinedAt": "2026-11-11T10:52:54.310Z",
       "avatar": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/avatars/avatar_u1794394374306.jpg?v=1794394399270"
-    },
-    {
-      "id": "u1794652065144",
-      "name": "امیرسجاد طاهری",
-      "class": "801",
-      "password": "1e1ddfdba421d358f2aef45ea922d2298d03d41c9a082a759b86a4536cf2074c",
-      "role": "reader",
-      "joinedAt": "2026-11-14T10:27:45.146Z",
-      "avatar": ""
     }
   ],
   "books": [
@@ -1186,6 +1177,21 @@
       "copies": [
         {
           "code": "BK-133",
+          "status": "available"
+        }
+      ]
+    },
+    {
+      "id": "mwg9n8g2n8p7vp1osk",
+      "title": "ایلیا1.2",
+      "category": "قصه و رمان",
+      "donor": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794652301247.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-134",
           "status": "available"
         }
       ]
