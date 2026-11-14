@@ -1192,7 +1192,8 @@
       "copies": [
         {
           "code": "BK-134",
-          "status": "available"
+          "status": "loaned",
+          "loanId": "mwg9ob4uclg6mejzbm9"
         }
       ]
     }
@@ -1237,6 +1238,15 @@
       "status": "returned",
       "date": "2026-11-11T10:25:20.439Z",
       "returnedAt": "2026-11-11T10:26:41.870Z"
+    },
+    {
+      "id": "mwg9ob4uclg6mejzbm9",
+      "bookId": "mwg9n8g2n8p7vp1osk",
+      "bookTitle": "ایلیا1.2",
+      "copyCode": "BK-134",
+      "member": "امیرسجادطاهری",
+      "status": "active",
+      "date": "2026-11-14T10:32:34.398Z"
     }
   ],
   "categories": [
