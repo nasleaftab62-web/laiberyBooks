@@ -20,7 +20,13 @@
   ],
   "books": [],
   "loans": [],
-  "categories": [],
+  "categories": [
+    {
+      "id": "mwhl6q3yop6lpnydwnr",
+      "name": "شهدایی",
+      "icon": "folder"
+    }
+  ],
   "requests": [],
   "questions": [],
   "customPages": [],
