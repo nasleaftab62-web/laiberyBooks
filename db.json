@@ -18,7 +18,39 @@
       "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9"
     }
   ],
-  "books": [],
+  "books": [
+    {
+      "id": "mwiq508bo9ixdy1mxp",
+      "title": "آرمان عزیز",
+      "category": "شهدایی",
+      "donor": "جواد",
+      "description": "سغلابعهقثغساعث",
+      "image": "https://raw.githubusercontent.com/nasleaftab62-web/laiberyBooks/main/images/book_1794800936493.jpg",
+      "pdfUrl": "",
+      "copies": [
+        {
+          "code": "BK-001",
+          "status": "available"
+        },
+        {
+          "code": "BK-002",
+          "status": "available"
+        },
+        {
+          "code": "BK-003",
+          "status": "available"
+        },
+        {
+          "code": "BK-004",
+          "status": "available"
+        },
+        {
+          "code": "BK-005",
+          "status": "available"
+        }
+      ]
+    }
+  ],
   "loans": [],
   "categories": [
     {
